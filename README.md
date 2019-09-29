@@ -16,8 +16,9 @@ sudo apt-get install nodejs
 
 Node - Windows / Mac
 
-[Nodejs](https://nodejs.org/en/download/) - The official website
-[Java-jre](https://www.oracle.com/technetwork/pt/java/javase/downloads/jre8-downloads-2133155.html) - The official website
+* [Nodejs](https://nodejs.org/en/download/) - The official website
+
+* [Java-jre](https://www.oracle.com/technetwork/pt/java/javase/downloads/jre8-downloads-2133155.html) - The official website
 
 
 Use npm to install Protractor globally with (recommended):
